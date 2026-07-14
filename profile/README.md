@@ -18,5 +18,5 @@ the property already has. No cell modem per camera and no per-camera fees.
 
 Everything the hosted cloud does, a self-hosted instance can do too.
 
-In active development: bench-validated end to end, field trials summer 2026.
+In active development; field trials underway summer 2026.
 Questions go to hello@getmeshcam.com or the Discussions tab on any repo.
